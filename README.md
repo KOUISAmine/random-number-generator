@@ -1,2 +1,5 @@
-# random-number-generator
-Generate a random number between a given range.
+# Random Number Generator [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>Generate a random number between a given range.
+
+Try demo: https://tools.waytolearnx.com/random-number-generator
